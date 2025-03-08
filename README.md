@@ -11,7 +11,7 @@ This is a simple AI-powered math solver using **Gradio** and **Ollama**. The mod
 
 1. Clone the repository:
   
-   git clone https://github.com/your-username/ollama-math-solver.git
+   git clone [https://github.com/your-username/ollama-math-solver.git](https://github.com/srus1608/AI-Powered-Math-Solver)
    cd ollama-math-solver
 2. Install Dependecies:
    pip install gradio ollama
